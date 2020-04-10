@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample Dialog Fragment</string>
+    <string name="show_dialog">Show dialog</string>
+    <string name="enter_anything">Enter anything</string>
+    <string name="done">done</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+</resources>
